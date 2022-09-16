@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabryel, conhecido também como Byelzin, programos e sou designer.
+## Oiii eu sou o Gabryel, conhecido também como Byelzin, programo e sou designer.
 <div align="center">
   <a href="https://github.com/Byelz1n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
